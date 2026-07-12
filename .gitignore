@@ -27,3 +27,8 @@ package.json
 
 # Supabase local
 supabase/
+
+# Large media files
+*.mp4
+*.avi
+*.mov
