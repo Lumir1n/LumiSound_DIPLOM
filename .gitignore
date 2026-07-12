@@ -19,3 +19,11 @@ local.properties
 # Signing keystores — never commit to git
 *.jks
 *.keystore
+
+# Node / npm
+node_modules/
+package-lock.json
+package.json
+
+# Supabase local
+supabase/
